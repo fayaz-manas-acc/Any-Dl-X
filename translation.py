@@ -5,23 +5,23 @@ class Translation(object):
     START_TEXT = """
 <b>Hey</b><b> {} </b>
 
-<b>I am Modified Telegram All in One Bot</b>
+<b>I ᴀᴍ Mᴏᴅɪғɪᴇᴅ Tᴇʟᴇɢʀᴀᴍ Aʟʟ ɪɴ Oɴᴇ Bᴏᴛ</b>
 
-<b>I can Upload Any Link in File or Video</b>
+<b>I ᴄᴀɴ Uᴘʟᴏᴀᴅ Aɴʏ Lɪɴᴋ ɪɴ Fɪʟᴇ ᴏʀ Vɪᴅᴇᴏ</b>
 
-<b>Use Help Button to Know How to Use me</b>
+<b>Usᴇ Hᴇʟᴘ Bᴜᴛᴛᴏɴ ᴛᴏ Kɴᴏᴡ Hᴏᴡ ᴛᴏ Usᴇ ᴍᴇ</b>
 
-<b>Made With 💕 By</b><b> @Tellybots_4u</b>
+<b>𝗕𝗢𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗔𝗡𝗗 𝗠𝗔𝗧𝗜𝗡𝗔𝗘𝗗 𝗕𝗬</b><b> @KOT_FREE_DE_LA_HOYA_OFF</b>
 """
     HELP_TEXT = """
 <b>Link to Media or File</b>
 ➠ <b>Send a link for upload to telegram file or media.</b>
 
-<b>Set Thumbnail</b>
-➠ <b>Send a photo to make it as permanent thumbnail.</b>
+<b>𝐒𝐀𝐕𝐈𝐍𝐆 𝐓𝐇𝐔𝐌𝐁𝐍𝐀𝐈𝐋</b>
+➠ <b>Sᴇɴᴅ ᴀ Pʜᴏᴛᴏ Tᴏ Mᴀᴋᴇ Iᴛ As Pᴇʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ</b>
 
-<b>Deleting Thumbnail</b>
-➠ <b>Send /deletethumbnail to delete thumbnail.</b>
+<b>𝐃𝐞𝐥𝐞𝐭𝐢𝐧𝐠 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥</b>
+➠ <b>Sᴇɴᴅ /deletethumbnail Tᴏ Dᴇʟᴇᴛᴇ Tʜᴜᴍʙɴᴀɪʟ.</b>
 
 <b>Convert To Video</b>
 ➠ <b>Send /converttovideo to Convert File In Video</b>
