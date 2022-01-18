@@ -14,8 +14,8 @@ class Translation(object):
 <b>𝗕𝗢𝗧 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗔𝗡𝗗 𝗠𝗔𝗧𝗜𝗡𝗔𝗘𝗗 𝗕𝗬</b><b> @KOT_FREE_DE_LA_HOYA_OFF</b>
 """
     HELP_TEXT = """
-<b>Link to Media or File</b>
-➠ <b>Send a link for upload to telegram file or media.</b>
+<b>𝐋𝐢𝐧𝐤 𝐭𝐨 𝐌𝐞𝐝𝐢𝐚 𝐨𝐫 𝐅𝐢𝐥𝐞</b>
+➠ <b>Sᴇɴᴅ ᴀ Lɪɴᴋ Fᴏʀ Uᴘʟᴏᴀᴅ Tᴏ Tᴇʟᴇɢʀᴀᴍ Fɪʟᴇ Oʀ Mᴇᴅɪᴀ.</b>
 
 <b>𝐒𝐀𝐕𝐈𝐍𝐆 𝐓𝐇𝐔𝐌𝐁𝐍𝐀𝐈𝐋</b>
 ➠ <b>Sᴇɴᴅ ᴀ Pʜᴏᴛᴏ Tᴏ Mᴀᴋᴇ Iᴛ As Pᴇʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ</b>
@@ -26,32 +26,45 @@ class Translation(object):
 <b>Convert To Video</b>
 ➠ <b>Send /converttovideo to Convert File In Video</b>
 
-<b>Rename To File</b>
-➠ <b>Send /rename To Media To File With NewName</b>
+<b>𝐑𝐞𝐧𝐚𝐦𝐞 𝐓𝐨 𝐅𝐢𝐥𝐞</b>
+➠ <b>Sᴇɴᴅ /rename Tᴏ Mᴇᴅɪᴀ Tᴏ Fɪʟᴇ Wɪᴛʜ NᴇᴡNᴀᴍᴇ</b>
 
-<b>Upload To GoFile</b>
-➠ <b>Send /uptogofile To Upload Media On GoFile.</b>
+<b>𝐔𝐩𝐥𝐨𝐚𝐝 𝐓𝐨 𝐆𝐨𝐅𝐢𝐥𝐞</b>
+➠ <b>Sᴇɴᴅ /uptogofile To Upload Media On GoFile.</b>
 
-<b>Upload To Anonfiles</b>
-➠ <b>Send /uptoanonfiles To Upload Media on Anonfiles.</b>
+<b>𝐔𝐩𝐥𝐨𝐚𝐝 𝐓𝐨 𝐀𝐧𝐨𝐧𝐟𝐢𝐥𝐞𝐬</b>
+➠ <b>Sᴇɴᴅ /uptoanonfiles Tᴏ Uᴘʟᴏᴀᴅ Mᴇᴅɪᴀ ᴏɴ Aɴᴏɴғɪʟᴇs.</b>
 
-<b>Upload To Transfer sh</b>
-➠ <b>Send /uptotsh To Upload Media On GoFile.</b>
+<b>𝐔𝐩𝐥𝐨𝐚𝐝 𝐓𝐨 𝐓𝐫𝐚𝐧𝐬𝐟𝐞𝐫 𝐬𝐡</b>
+➠ <b>Sᴇɴᴅ /uptotsh Tᴏ Uᴘʟᴏᴀᴅ Mᴇᴅɪᴀ Oɴ GᴏFɪʟᴇ.</b>
 
-<b>Take Screen Shots</b>
-➠ <b>Send /sshot to take Screenshots .</b>
+<b>𝐓𝐚𝐤𝐞 𝐒𝐜𝐫𝐞𝐞𝐧 𝐒𝐡𝐨𝐭𝐬</b>
+➠ <b>Sᴇɴᴅ /sshot Tᴏ Tᴀᴋᴇ Sᴄʀᴇᴇɴsʜᴏᴛs .</b>
 
-<b>Made With 💕 By</b><b> @Tellybots_4u</b>
+🚀 : <a href='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'>Cᴏɴᴛᴀᴄᴛ Dᴇᴠᴇʟᴏᴘᴇʀ (Oʀ) Rᴇᴘᴏʀᴛ Bᴜɢꜱ</a>
 """
     ABOUT_TEXT = """
- **🤖 <b>Bot :** All in One Bot</b>\n
- **👲 <b>Developer :** [Tellybots_4u](https://telegram.me/tellybots_4u)</b>\n
- **👥 <b>Channel :** [Tellybots_4u](https://telegram.me/tellybots_4u)</b>\n
- **❄️ <b>Credits :** Everyone in this journey</b>\n
- **🍴 <b>Source :** [Click here](https://t.me/tellybots_digital)</b>\n
- **📝 <b>Language :** [Python3](https://python.org)</b>\n
- **📚 <b>Library :** [Pyrogram v1.2.0](https://pyrogram.org)</b>\n
- **🌟 <b>Server :** [Heroku](https://heroku.com)</b>\n
+╭──────────[𝗕𝗢𝗧 𝗦𝗧𝗔𝗧𝗦]──────────⍟
+│
+├📆 Dᴀᴛᴇ : 18-January-2022
+│
+├⌚ Tɪᴍᴇ : 02:58:40 PM
+│
+├☀️ Dᴀʏ : Tuesday
+│
+├─────────────────────⍟
+│
+├Nᴀᴍᴇ : <a href='https://t.me/KOT_ANYDL_XL_BOT'>Kᴏᴛ Aɴyᴅʟ x Bᴏᴛ</a>
+│
+├Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>Hᴇʀᴏᴋᴜ</a>
+│
+├Fʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ 1.2.9</a>
+│
+├Lᴀɴɢᴜᴀɢᴇ : <a href='https://docs.pyrogram.org/'>Pʏᴛʜᴏɴ 3.9.6</a>
+│
+├Dɪꜱᴋ ꜱɪᴢᴇ : <a href='https://t.me/KOT_ANYDL_XL_BOT'>500.42 GB</a> 
+│
+╰──────────[🌩️]──────────⍟
 """
     START_BUTTONS = InlineKeyboardMarkup(
         [[
